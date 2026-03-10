@@ -60,7 +60,7 @@ Its sole purpose is to showcase automation techniques, reproducible workflows, a
 ---
 
 ## 📦 Required Packages
-The dependencies are listed in [`requirements.txt`](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.0/blob/main/requirements.txt)
+The dependencies are listed in [`requirements.txt`](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.1/blob/main/requirements.txt)
 
 Install them with:
 ```bash
@@ -96,11 +96,11 @@ These files are synthetic examples included for demonstration only.
 
 ## 📸 Screenshots
 - **WAT Data Automation v1.1.0 Dashboard Screenshot**
-![WAT Data Automation v1.1.0 Dashboard.png](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.0/blob/main/WAT%20Data%20Automation%20v1.1.0%20Dashboard.png)
+![WAT Data Automation v1.1.0 Dashboard.png](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.1/blob/main/WAT%20Data%20Automation%20v1.1.0%20Dashboard.png)
 - **Histogram Dashboard Screenshot** 
-![Histogram Viewer Dashboard.png](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.0/blob/main/Histogram%20Viewer%20Dashboard.png)
+![Histogram Viewer Dashboard.png](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.1/blob/main/Histogram%20Viewer%20Dashboard.png)
 - **Sample Output Capability Plot (Param G)**
-![Sample Histogram Plot.png](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.0/blob/main/Param_G.png)
+![Sample Histogram Plot.png](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.1/blob/main/Param_G.png)
 
 ---
 
