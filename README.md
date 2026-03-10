@@ -1,6 +1,6 @@
-# WAT Data Automation Tool – v1.1.0
+# WAT Data Automation Tool – v1.1.1
 ## 📖 Description
-Version 1.1.0 is a continuation and structural upgrade of the original WAT Data Automation Tool.
+Version 1.1.1 is a continuation and structural upgrade of the original WAT Data Automation Tool.
 This release introduces a multi‑class architecture, centralized error logging, and an updated Histogram Plot dashboard, while preserving the core purpose of automating semiconductor wafer acceptance test (WAT) deliverables.
 The tool converts raw .wat files into structured Excel workbooks, generates per‑Unit and per‑Wafer summaries, validates specifications, and produces interactive capability plots with Cp/Cpk statistics. Built with Python, Tkinter, OpenPyXL, Matplotlib, NumPy, and Pandas, it streamlines engineering workflows and ensures reproducible, audit‑ready insights.
 
@@ -15,7 +15,7 @@ Its sole purpose is to showcase automation techniques, reproducible workflows, a
 ---
 
 ## 🚀 Features
-## 🔧 New in v1.1.0
+## 🔧 New in v1.1.1
 - Multi‑class architecture (Parser, Builder, Summary Generator, Histogram Viewer, Logger, GUI Controller)
 - Centralized error logging with timestamped files
 - Automatic 30‑day log cleanup
