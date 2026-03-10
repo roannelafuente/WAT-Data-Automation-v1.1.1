@@ -7,6 +7,7 @@ All notable changes to the WAT Data Automation Tool are documented here.
 - Generated Per Unit Data, Per Wafer Summary, and Summary Sheet.
 - Capability plotting via Histogram Viewer with Cp/Cpk statistics.
 - Tkinter GUI for file selection, automation control, and status logging.
+
 ➡️ [View v1.0.0 Release](https://github.com/roannelafuente/WAT-Data-Automation)
 
 ## v1.1.1 – Multi‑Class Architecture & Dashboard Update
@@ -27,4 +28,5 @@ Note: This release skips v1.1.0 because of a packaging error. The next valid ver
 - Internal improvements:
 - Better separation of concerns across parser, builder, summary generator, histogram viewer, and GUI controller.
 - More reliable workbook handling and data flow.
+
 ➡️ [View v1.1.1 Release](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.1)
