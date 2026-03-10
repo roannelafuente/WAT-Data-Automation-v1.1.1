@@ -114,7 +114,7 @@ These files are synthetic examples included for demonstration only.
 
 ## 📦 Download
 Release v1.1.0 with histogram viewer and spec mapping is available here:  
-➡️ [Download WAT Data Automation Tool v1.1.0](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.0/releases/tag/v1.1.0)
+➡️ [Download WAT Data Automation Tool v1.1.1](https://github.com/roannelafuente/WAT-Data-Automation-v1.1.1/releases/tag/v1.1.1)
 
 ▶️ **Usage**: Run the .exe to launch the dashboard and explore the features.
 
