@@ -23,7 +23,7 @@ from datetime import datetime, timedelta
 import re
 import sys
 
-# WAT Data Automation Tool v1.1.0
+# WAT Data Automation Tool v1.1.1
 # Author: Rose Anne Lafuente
 # Licensed Electronics Engineer | Product Engineer II | Python Automation
 #
@@ -969,7 +969,7 @@ class GuiController:
         self.path_var = tk.StringVar()
 
         # Window setup
-        self.root.title("WAT Data Automation v1.1.0")
+        self.root.title("WAT Data Automation v1.1.1")
         self.root.geometry("600x500")
         try:
             self.root.iconbitmap("sprout.ico")  # Add branding icon
@@ -988,7 +988,7 @@ class GuiController:
         title_frame.pack(pady=(10, 0))
         tk.Label(title_frame, text="WAT Data Automation",
                  font=("Meiryo", 12, "bold"), fg="darkblue", bg=self.bg_color).pack(side="left")
-        tk.Label(title_frame, text=" v1.1.0",
+        tk.Label(title_frame, text=" v1.1.1",
                  font=("Meiryo", 12, "italic"), fg="darkblue", bg=self.bg_color).pack(side="left")
         tk.Label(self.root, text="Developed by Rose Anne Lafuente | 2026",
                  font=("Arial", 7, "italic"), fg="gray", bg=self.bg_color).pack(pady=(0, 10))
@@ -1182,9 +1182,10 @@ class GuiController:
 # --- Main Entry Point ---
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("WAT Data Automatio v1.1.0")
+    root.title("WAT Data Automatio v1.1.1")
     root.iconbitmap(resource_path("sprout.ico"))  # subtle window icon only
     app = GuiController(root)
     root.mainloop()
     # Ensure process exits when GUI closes
     root.quit()
+
